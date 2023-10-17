@@ -1,0 +1,36 @@
+body{
+    background-color: cornsilk;
+}
+
+
+nav{
+    background-color: rgb(187, 161, 113);
+    padding: 1rem;
+}
+a{
+    color: brown;
+    padding: 5px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+   
+}
+a:hover{
+    color: aliceblue;
+    transition: 0.5s;
+}
+
+footer{
+    text-align: center;
+}
+article{
+    background-color: cornsilk;
+}
+.container{
+    background-color: cornsilk;
+}
+
+div{
+    text-align: center;
+}
+
